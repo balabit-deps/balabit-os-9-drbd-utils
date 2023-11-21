@@ -6,3 +6,5 @@
 0006-initscript-add-start-runlevels.patch
 0007-drbdmon-buildflags.patch
 0008-drbdmon-pass-LDFLAGS-to-g.patch
+lp2043817-fix-timeout-pacemaker-jammy-01.patch
+lp2043817-fix-timeout-pacemaker-jammy-02.patch

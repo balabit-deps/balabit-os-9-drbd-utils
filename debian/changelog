@@ -1,3 +1,10 @@
+drbd-utils (9.15.0-1ubuntu0.1) jammy; urgency=medium
+
+  * d/p/lp2043817-fix-timeout-pacemaker-jammy-*.patch: Fix timeout
+    issue with Pacemaker. (LP: #2043817)
+
+ -- Sergio Durigan Junior <sergio.durigan@canonical.com>  Tue, 21 Nov 2023 14:16:59 -0500
+
 drbd-utils (9.15.0-1build2) jammy; urgency=medium
 
   * No-change rebuild for ppc64el baseline bump.
